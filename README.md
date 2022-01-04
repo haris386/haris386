@@ -2,13 +2,13 @@
 
 <!-- ## 👋 &nbsp;Hi! I'm Haris Ahmed -->
 
-### 👨🏻‍💻 &nbsp;About Me
+### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;About Me
 
 #### I am an enthusiastic MERN-Stack Developer based in Karachi, Pakistan.
 
 👨🏻‍🎓 &nbsp;I'm currently doing BS(Software Engineering) at the Karachi University, Karachi, Pakistan.\
-📈 &nbsp;I enjoy learning about new skills, advance technologies and creating Web and Mobile Applications.\
-💻 &nbsp;I'm on pace to learn more about Artificial Intelligence (AI) & MERN Stack Development and other futuristic skills.\
+<img src="./assets/Developer.gif" width="25px"> &nbsp;I enjoy learning about new skills, advance technologies and creating Web and Mobile Applications.\
+📈 &nbsp;I'm on pace to learn more about Artificial Intelligence (AI) & MERN Stack Development and other futuristic skills.\
 ✍️ &nbsp;I'm a self-taught Graphics Designer, worked as an artist at Instagram in my free time.\
 📧 &nbsp;You can reach out to me for any kind of Web or Moble App Development by emailing me at harisahmed873@gmail.com.\
 😎 &nbsp;Enthusiastic and sheer will person to web designs that are professional.\
@@ -16,7 +16,7 @@
 
 <img alt="Coder" src="./assets/coding-freak.gif" align="right" style="width: 300px; height: 185px;" />
 
-### 🛠 &nbsp;Skills
+### <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 <br /><br />
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
@@ -26,7 +26,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GitHub-100000?style=flat&logo=git&logoColor=red)&nbsp;
+![Git](https://img.shields.io/badge/Git-100000?style=flat&logo=git&logoColor=red)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-20232A?style=flat&logo=visual-studio-code&logoColor=61DAFB)&nbsp;
 ![Photoshop](https://badges.aleen42.com/src/photoshop.svg)&nbsp;
@@ -34,7 +34,7 @@
 ![AfterEffects](https://aleen42.github.io/badges/src/after_effects.svg)&nbsp;
 
 
-### ⚙️ &nbsp;GitHub Analytics
+### <h2> GitHub Analytics<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px"> </h2>
 
 <p align="center">
 <a href="https://github.com/mrhassansaif">
@@ -43,7 +43,7 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+### <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 <p align="center">
 <a href="https://mrharisahmed.000webhostapp.com//"><img src="https://img.shields.io/badge/harisahmedportfolio-1877F2?style=flat&logo=Google-Chrome&logoColor=white"/></a>
