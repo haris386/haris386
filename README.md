@@ -12,7 +12,7 @@
 ✍️ &nbsp;I'm a self-taught Graphics Designer, worked as an artist at Instagram in my free time.\
 📧 &nbsp;You can reach out to me for any kind of Web or Moble App Development by emailing me at harisahmed873@gmail.com.\
 😎 &nbsp;Enthusiastic and sheer will person to web designs that are professional.\
-📋 &nbsp;Interests: Die Hard fan of Hollywood Movies, Robert Downey Jr, Sci-fi, Astronomy, Comic Books and Games.\
+📋 &nbsp; Die Hard fan of Hollywood Movies, Robert Downey Jr, Sci-fi, Astronomy, Comic Books and Games.\
 
 <img alt="Coder" src="./assets/coding-freak.gif" align="right" style="width: 300px; height: 185px;" />
 
