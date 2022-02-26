@@ -31,8 +31,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-20232A?style=flat&logo=visual-studio-code&logoColor=61DAFB)&nbsp;
 ![Photoshop](https://badges.aleen42.com/src/photoshop.svg)&nbsp;
 ![Illustrator](https://aleen42.github.io/badges/src/illustrator.svg)&nbsp;
+![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)&nbsp;
 ![AfterEffects](https://aleen42.github.io/badges/src/after_effects.svg)&nbsp;
-
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)&nbsp;
 
 ### <h2> GitHub Analytics<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px"> </h2>
 
