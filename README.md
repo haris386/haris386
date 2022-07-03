@@ -2,7 +2,7 @@
 
 <!-- ## 👋 &nbsp;Hi! I'm Haris Ahmed -->
 
-### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;About Me
+### <img src="https://media3.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif?cid=ecf05e47w75c5ghbq2j0u29lmsq95fn8xgorrdw69ndzjnlo&rid=giphy.gif&ct=s" width="40px">&nbsp;About Me
 
 #### I am an enthusiastic MERN-Stack Developer based in Karachi, Pakistan.
 
