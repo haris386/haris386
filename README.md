@@ -14,7 +14,7 @@
 😎 &nbsp;Enthusiastic and sheer will person to web designs that are professional.\
 📋 &nbsp; Die Hard fan of Hollywood Movies, Robert Downey Jr, Sci-fi, Astronomy, Comic Books and Games.
 
-<img alt="Coder" src="./assets/coding-freak.gif" align="right" style="width: 300px; height: 185px;" />
+<img alt="Coder" src="./assets/coding-freak.gif" align="right"/>
 
 ### <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
