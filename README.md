@@ -2,12 +2,12 @@
 
 <!-- ## 👋 &nbsp;Hi! I'm Haris Ahmed -->
 
-### <img ./assets/p.png" width='30px'>&nbsp;About Me
+### <img src="./assets/p.png" width='30px'>&nbsp;About Me
 
 #### I am an enthusiastic MERN-Stack Developer based in Karachi, Pakistan.
 
 👨🏻‍🎓 &nbsp;I'm currently doing BS(Software Engineering) at the Karachi University, Karachi, Pakistan.\
-<img src="./assets/Developer.gif" width="25px"> &nbsp;I enjoy learning about new skills, advance technologies and creating Web and Mobile Applications.\
+<img src="./assets/d.png" width="25px"> &nbsp;I enjoy learning about new skills, advance technologies and creating Web and Mobile Applications.\
 📈 &nbsp;I'm on pace to learn more about Artificial Intelligence (AI) & MERN Stack Development and other futuristic skills.\
 ✍️ &nbsp;I'm a self-taught Graphics Designer, worked as an artist at Instagram in my free time.\
 📧 &nbsp;You can reach out to me for any kind of Web or Moble App Development by emailing me at harisahmed873@gmail.com.\
