@@ -1,8 +1,8 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='10' align="left"/><h2>Hi! I'm Haris Ahmed</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hi! I'm Haris Ahmed</h2>
 
 <!-- ## 👋 &nbsp;Hi! I'm Haris Ahmed -->
 
-### <img src="https://media3.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif?cid=ecf05e47w75c5ghbq2j0u29lmsq95fn8xgorrdw69ndzjnlo&rid=giphy.gif&ct=s" width='40px'>&nbsp;About Me
+### <img ./assets/p.png" width='30px'>&nbsp;About Me
 
 #### I am an enthusiastic MERN-Stack Developer based in Karachi, Pakistan.
 
