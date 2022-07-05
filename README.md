@@ -16,7 +16,7 @@
 
 <img alt="Coder" src="./assets/coding-freak.gif" align="right"/>
 
-### <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+### <h2> Skills <img src = "./assets/giphy.gif"></h2>
 
 <br /><br />
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
@@ -35,7 +35,7 @@
 ![AfterEffects](https://aleen42.github.io/badges/src/after_effects.svg)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)&nbsp;
 
-### <h2> GitHub Analytics<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px"> </h2>
+### <h2> GitHub Analytics<img src="./assets/analytics.gif"> </h2>
 
 <p align="center">
 <a href="https://github.com/mrhassansaif">
@@ -44,7 +44,7 @@
 </a>
 </p>
 
-### <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+### <h2> Connect with me <img src='./assets/hs.gif'> </h2>
 
 <p align="center">
 <a href="https://mrharisahmed.000webhostapp.com//"><img src="https://img.shields.io/badge/harisahmedportfolio-1877F2?style=flat&logo=Google-Chrome&logoColor=white"/></a>
