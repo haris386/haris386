@@ -38,9 +38,9 @@
 ### <h2> GitHub Analytics<img src="./assets/analytics.gif"> </h2>
 
 <p align="center">
-<a href="https://github.com/mrhassansaif">
+<a href="https://github.com/haris386">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haris386&theme=radical&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=haris386&layout=compact&langs_count=8&theme=radical&show_icons "/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=haris386&layout=compact&langs_count=8&theme=radical&show_icons"/>
 </a>
 </p>
 
