@@ -6,7 +6,7 @@
 
 #### I am an enthusiastic MERN-Stack Developer based in Karachi, Pakistan.
 
-👨🏻‍🎓 &nbsp;I'm currently doing BS(Software Engineering) at the Karachi University, Karachi, Pakistan.\
+👨🏻‍🎓 &nbsp;I'm currently doing BSCS at the University of People, USA (Remote).\
 <img src="./assets/d.png" width="25px"> &nbsp;I enjoy learning about new skills, advance technologies and creating Web and Mobile Applications.\
 📈 &nbsp;I'm on pace to learn more about Artificial Intelligence (AI) & MERN Stack Development and other futuristic skills.\
 ✍️ &nbsp;I'm a self-taught Graphics Designer, worked as an artist at Instagram in my free time.\
