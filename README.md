@@ -4,7 +4,7 @@
 
 ### <img src="./assets/p.png" width='30px'>&nbsp;About Me
 
-#### I am an enthusiastic MERN-Stack Developer based in Karachi, Pakistan.
+#### I am an enthusiastic Frontend Software Engineer | WordPress, Wix & Shopify Developer based in Karachi, Pakistan.
 
 👨🏻‍🎓 &nbsp;I'm currently doing BSCS at the University of People, USA (Remote).\
 <img src="./assets/d.png" width="25px"> &nbsp;I enjoy learning about new skills, advance technologies and creating Web and Mobile Applications.\
