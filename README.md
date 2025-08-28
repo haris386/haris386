@@ -47,7 +47,7 @@
 ### <h2> Connect with me <img src='./assets/hs.gif'> </h2>
 
 <p align="center">
-<a href="https://mrharisahmed.000webhostapp.com//"><img src="https://img.shields.io/badge/harisahmedportfolio-1877F2?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://haris386.github.io/MyPortfolio/"><img src="https://img.shields.io/badge/harisahmedportfolio-1877F2?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="mailto:harisahmed873@gmail.com"><img src="https://img.shields.io/badge/harisahmed873@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/haris-ahmed-998a69183/"><img src="https://img.shields.io/badge/-Haris Ahmed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/haris_ahmedrdj/?hl=en"><img src="https://img.shields.io/badge/harisahmedrdj-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
