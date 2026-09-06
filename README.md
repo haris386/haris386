@@ -17,14 +17,14 @@
 
 ## 🧠 PROFILE
 
-```yaml
-Name:          Haris Ahmed
-Role:          Front-End Software Engineer
-Location:      Karachi, Pakistan 🇵🇰
-Work_Mode:     Remote
-Education:     BSc Computer Science — University of the People
-Status:        Deploying pixel-perfect UIs from Figma → Production
-```
+<table>
+<tr><td><b>Name</b></td><td>Haris Ahmed</td></tr>
+<tr><td><b>Role</b></td><td>Front-End Software Engineer</td></tr>
+<tr><td><b>Location</b></td><td>Karachi, Pakistan 🇵🇰</td></tr>
+<tr><td><b>Work Mode</b></td><td>Remote</td></tr>
+<tr><td><b>Education</b></td><td>BSc Computer Science — University of the People</td></tr>
+<tr><td><b>Status</b></td><td>Deploying pixel-perfect UIs from Figma → Production</td></tr>
+</table>
 
 I turn Figma blueprints into fully responsive, production-grade
 web applications. 2+ years engineering scalable, high-performance
@@ -130,11 +130,7 @@ job matching for a global user base.
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=haris386&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=F7DF1E"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=haris386&theme=radical&no-frame=true&margin-w=8&row=1"/>
+<img src="https://streak-stats.demolab.com/?user=haris386&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=F7DF1E"/>
 </p>
 
 <!--
