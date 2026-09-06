@@ -1,54 +1,171 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hi! I'm Haris Ahmed</h2>
+<div align="center">
 
-<!-- ## 👋 &nbsp;Hi! I'm Haris Ahmed -->
+<img src="./assets/Hand%20Wave.gif" width="60"/>
 
-### <img src="./assets/p.png" width='30px'>&nbsp;About Me
+# ⚡ HARIS AHMED ⚡
+### `Front-End Engineer // UI Architect // Web Builder`
 
-#### I am an enthusiastic Frontend Software Engineer | WordPress, Wix & Shopify Developer based in Karachi, Pakistan.
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=System+Online...;Initializing+Haris_Ahmed.exe;Frontend+Engineer+%7C+React+%2F+Next.js+Specialist;Building+Fast%2C+Responsive+Web+Experiences;Status%3A+READY+%E2%9A%A1" alt="Typing SVG" />
 
-👨🏻‍🎓 &nbsp;I'm currently doing BSCS at the University of People, USA (Remote).\
-<img src="./assets/d.png" width="25px"> &nbsp;I enjoy learning about new skills, advance technologies and creating Web and Mobile Applications.\
-📈 &nbsp;I'm on pace to learn more about Artificial Intelligence (AI) & MERN Stack Development and other futuristic skills.\
-✍️ &nbsp;I'm a self-taught Graphics Designer, worked as an artist at Instagram in my free time.\
-📧 &nbsp;You can reach out to me for any kind of Web or Moble App Development by emailing me at harisahmed873@gmail.com.\
-😎 &nbsp;Enthusiastic and sheer will person to web designs that are professional.\
-📋 &nbsp;Big fan of Hollywood Movies, Sci-fi, Astronomy, Comic Books and Games.
+</div>
 
-<img alt="Coder" src="./assets/coding-freak.gif" align="right"/>
+<br>
 
-### <h2> Skills <img src = "./assets/giphy.gif"></h2>
+<table align="center">
+<tr>
+<td width="60%" valign="top">
 
-<br /><br />
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/Git-100000?style=flat&logo=git&logoColor=red)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-20232A?style=flat&logo=visual-studio-code&logoColor=61DAFB)&nbsp;
-![Photoshop](https://badges.aleen42.com/src/photoshop.svg)&nbsp;
-![Illustrator](https://aleen42.github.io/badges/src/illustrator.svg)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)&nbsp;
-![AfterEffects](https://aleen42.github.io/badges/src/after_effects.svg)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)&nbsp;
+## 🧠 PROFILE
 
-### <h2> GitHub Analytics<img src="./assets/analytics.gif"> </h2>
+```yaml
+Name:          Haris Ahmed
+Role:          Front-End Software Engineer
+Location:      Karachi, Pakistan 🇵🇰
+Work_Mode:     Remote
+Education:     BSc Computer Science — University of the People
+Status:        Deploying pixel-perfect UIs from Figma → Production
+```
+
+I turn Figma blueprints into fully responsive, production-grade
+web applications. 2+ years engineering scalable, high-performance
+interfaces with **React.js, Next.js, Tailwind CSS & Material-UI**,
+wired into RESTful APIs and shipped to real users.
+
+</td>
+<td width="40%" align="center">
+<img src="./assets/coding-freak.gif" width="260"/>
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ TECH STACK
+
+<div align="center">
+<img src="./assets/orbit.svg" width="480"/>
+</div>
 
 <p align="center">
-<a href="https://github.com/haris386">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haris386&theme=radical&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=haris386&layout=compact&langs_count=8&theme=radical&show_icons"/>
-</a>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
-### <h2> Connect with me <img src='./assets/hs.gif'> </h2>
+---
+
+## 🏭 THINGS I'VE BUILT
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🔷 Business Management Platform
+React.js · Next.js · Tailwind CSS
+Cloud-based all-in-one platform: unified dashboards, work order
+management, custom workflow config, role-based access, and
+integrated financial modules (budgeting, estimates, invoicing).
+
+### 🔶 Corporate Energy Website
+React.js · Next.js · Tailwind CSS
+High-converting corporate site for a solar energy company —
+service showcase, product line, customer journey, responsive &
+performance-optimized.
+
+</td>
+<td width="50%" valign="top">
+
+### 🔷 Employer Hiring Platform
+React · MUI · HeroUI · Directus.io
+Platform for employers to onboard, create jobs, launch skill-based
+assessments, and invite global candidates — with full analytics
+dashboards.
+
+### 🔶 Candidate Portal
+React · MUI · HeroUI · Directus.io
+AI-powered onboarding, skill assessments + certifications, and
+job matching for a global user base.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📡 EXPERIENCE
+
+```
+[2025 — PRESENT]   Freelance Web Developer (Remote)
+                    → Figma-to-production builds, component architecture,
+                      SEO/perf/accessibility optimization, deployment ops.
+
+[2024 — 2025]      Frontend Software Engineer (Remote)
+                    → React/MUI/HeroUI interfaces, REST API integration,
+                      Git-based collaborative workflows.
+
+[2023 — 2024]      Freelance Website Developer — WordPress | Shopify | Wix
+                    → Cross-browser, mobile-first builds, technical SEO,
+                      independent multi-project delivery.
+```
+
+---
+
+## 📊 GITHUB ANALYTICS
 
 <p align="center">
-<a href="https://haris386.github.io/MyPortfolio/"><img src="https://img.shields.io/badge/harisahmedportfolio-1877F2?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="mailto:harisahmed873@gmail.com"><img src="https://img.shields.io/badge/harisahmed873@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/haris-ahmed-998a69183/"><img src="https://img.shields.io/badge/-Haris Ahmed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/haris_ahmedrdj/?hl=en"><img src="https://img.shields.io/badge/harisahmedrdj-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=haris386&theme=radical&hide_border=true&show_icons=true&title_color=00F0FF&icon_color=F7DF1E&text_color=ffffff&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=haris386&layout=compact&langs_count=8&theme=radical&hide_border=true&title_color=00F0FF&text_color=ffffff&bg_color=0d1117"/>
 </p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=haris386&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=F7DF1E"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=haris386&theme=radical&no-frame=true&margin-w=8&row=1"/>
+</p>
+
+<!--
+  Transparent visitor counter (public repo view count only —
+  no IP capture, no geolocation, no personal identification).
+-->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=haris386&label=SIGNAL+PINGS+RECEIVED&color=00F0FF&style=for-the-badge"/>
+</p>
+
+---
+
+## 🎓 CERTIFICATIONS ARCHIVE
+
+- ✅ Web & Mobile Application Development — Saylani Mass IT Training
+- ✅ HTML, CSS & JavaScript for Web Developers — Johns Hopkins University
+- ✅ WordPress Website Developer Course — Udemy
+- ✅ JavaScript Firebase Bootcamp — Udemy
+- ✅ React Course — Udemy
+
+---
+
+## 📡 CONNECT
+
+<p align="center">
+<a href="https://haris386.github.io/MyPortfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=Google-Chrome&logoColor=00F0FF"/></a>
+<a href="mailto:harisahmed873@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+<a href="https://www.linkedin.com/in/haris-ahmed-998a69183/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=Linkedin&logoColor=0077B5"/></a>
+<a href="https://www.instagram.com/haris_ahmedrdj/?hl=en"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
+</p>
+
+<div align="center">
+<sub>⚡ "Sometimes you gotta run before you can walk." — this repo included ⚡</sub>
+</div>
