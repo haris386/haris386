@@ -3,9 +3,9 @@
 <img src="./assets/Hand%20Wave.gif" width="60"/>
 
 # ⚡ HARIS AHMED ⚡
-### `Front-End Engineer // UI Architect // Web Builder`
+## `Front-End Engineer // UI Architect // Web Builder`
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=System+Online...;Initializing+Haris_Ahmed.exe;Frontend+Engineer+%7C+React+%2F+Next.js+Specialist;Building+Fast%2C+Responsive+Web+Experiences;Status%3A+READY+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=3000&pause=1000&color=00F0FF&background=0D1117&center=true&vCenter=true&width=650&height=60&lines=System+Online...;Initializing+Haris_Ahmed.exe;Frontend+Engineer+%7C+React+%2F+Next.js+Specialist;Building+Fast%2C+Responsive+Web+Experiences;Status%3A+READY+%E2%9A%A1" alt="Typing SVG" />
 
 </div>
 
@@ -22,7 +22,7 @@
 <tr><td><b>Role</b></td><td>Front-End Software Engineer</td></tr>
 <tr><td><b>Location</b></td><td>Karachi, Pakistan 🇵🇰</td></tr>
 <tr><td><b>Work Mode</b></td><td>Remote</td></tr>
-<tr><td><b>Education</b></td><td>BSc Computer Science — University of the People</td></tr>
+<tr><td><b>Education</b></td><td>BSc Computer Science, University of the People</td></tr>
 <tr><td><b>Status</b></td><td>Deploying pixel-perfect UIs from Figma → Production</td></tr>
 </table>
 
@@ -80,9 +80,9 @@ integrated financial modules (budgeting, estimates, invoicing).
 
 ### 🔶 Corporate Energy Website
 React.js · Next.js · Tailwind CSS
-High-converting corporate site for a solar energy company —
-service showcase, product line, customer journey, responsive &
-performance-optimized.
+High-converting corporate site for a solar energy company,
+showcasing service offerings, product line, customer journey,
+responsive & performance-optimized.
 
 </td>
 <td width="50%" valign="top">
@@ -90,7 +90,7 @@ performance-optimized.
 ### 🔷 Employer Hiring Platform
 React · MUI · HeroUI · Directus.io
 Platform for employers to onboard, create jobs, launch skill-based
-assessments, and invite global candidates — with full analytics
+assessments, and invite global candidates, with full analytics
 dashboards.
 
 ### 🔶 Candidate Portal
@@ -107,15 +107,15 @@ job matching for a global user base.
 ## 📡 EXPERIENCE
 
 ```
-[2025 — PRESENT]   Freelance Web Developer (Remote)
+[2025 - PRESENT]   Web Developer (Remote)
                     → Figma-to-production builds, component architecture,
                       SEO/perf/accessibility optimization, deployment ops.
 
-[2024 — 2025]      Frontend Software Engineer (Remote)
+[2024 - 2025]      Frontend Software Engineer (Remote)
                     → React/MUI/HeroUI interfaces, REST API integration,
                       Git-based collaborative workflows.
 
-[2023 — 2024]      Freelance Website Developer — WordPress | Shopify | Wix
+[2023 - 2024]      Website Developer, WordPress | Shopify | Wix
                     → Cross-browser, mobile-first builds, technical SEO,
                       independent multi-project delivery.
 ```
@@ -125,7 +125,7 @@ job matching for a global user base.
 ## 📊 GITHUB ANALYTICS
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=haris386&theme=radical&hide_border=true&show_icons=true&title_color=00F0FF&icon_color=F7DF1E&text_color=ffffff&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=haris386&theme=radical&hide_border=true&show_icons=true&title_color=00F0FF&icon_color=F7DF1E&text_color=ffffff&bg_color=0d1117"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=haris386&layout=compact&langs_count=8&theme=radical&hide_border=true&title_color=00F0FF&text_color=ffffff&bg_color=0d1117"/>
 </p>
 
@@ -134,7 +134,7 @@ job matching for a global user base.
 </p>
 
 <!--
-  Transparent visitor counter (public repo view count only —
+  Transparent visitor counter (public repo view count only,
   no IP capture, no geolocation, no personal identification).
 -->
 <p align="center">
@@ -145,11 +145,11 @@ job matching for a global user base.
 
 ## 🎓 CERTIFICATIONS ARCHIVE
 
-- ✅ Web & Mobile Application Development — Saylani Mass IT Training
-- ✅ HTML, CSS & JavaScript for Web Developers — Johns Hopkins University
-- ✅ WordPress Website Developer Course — Udemy
-- ✅ JavaScript Firebase Bootcamp — Udemy
-- ✅ React Course — Udemy
+- ✅ Web & Mobile Application Development, Saylani Mass IT Training
+- ✅ HTML, CSS & JavaScript for Web Developers, Johns Hopkins University
+- ✅ WordPress Website Developer Course, Udemy
+- ✅ JavaScript Firebase Bootcamp, Udemy
+- ✅ React Course, Udemy
 
 ---
 
@@ -163,5 +163,5 @@ job matching for a global user base.
 </p>
 
 <div align="center">
-<sub>⚡ "Sometimes you gotta run before you can walk." — this repo included ⚡</sub>
+<sub>⚡ "Sometimes you gotta run before you can walk." - this repo included ⚡</sub>
 </div>
