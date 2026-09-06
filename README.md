@@ -106,7 +106,7 @@ job matching for a global user base.
 
 ## 📡 EXPERIENCE
 
-```
+<pre>
 [2025 - PRESENT]   Web Developer (Remote)
                     → Figma-to-production builds, component architecture,
                       SEO/perf/accessibility optimization, deployment ops.
@@ -118,7 +118,7 @@ job matching for a global user base.
 [2023 - 2024]      Website Developer, WordPress | Shopify | Wix
                     → Cross-browser, mobile-first builds, technical SEO,
                       independent multi-project delivery.
-```
+</pre>
 
 ---
 
