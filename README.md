@@ -157,6 +157,7 @@ job matching for a global user base.
 
 <p align="center">
 <a href="https://haris386.github.io/MyPortfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=Google-Chrome&logoColor=00F0FF"/></a>
+  <a href="https://www.fiverr.com/haris99ahmed"><img src="https://img.shields.io/badge/FIVERR-000000?style=for-the-badge&logo=fiverr&logoColor=1DBF73"/></a>
 <a href="mailto:harisahmed873@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
 <a href="https://www.linkedin.com/in/haris-ahmed-998a69183/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=Linkedin&logoColor=0077B5"/></a>
 <a href="https://www.instagram.com/haris_ahmedrdj/?hl=en"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
